@@ -15,3 +15,5 @@ pool.ER_SQL2PARENTID=encache,1000,1800
 layedpool.TableID2DataNodeCache=encache,10000,1000
 layedpool.TableID2DataNodeCache.TESTDB_ORDERS=50000,1800
 ```
+
+建议大家采用[官网版本](https://github.com/MyCATApache/Mycat-download)
